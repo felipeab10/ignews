@@ -1,0 +1,15 @@
+{
+  "_cts": {
+    "Publication": {
+      "Content": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    }
+  },
+  "slices": {
+    "Publication": {}
+  }
+}
